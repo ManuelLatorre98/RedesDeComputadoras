@@ -1,0 +1,13 @@
+sysctl net.ipv4.tcp_available_congestion_control --> Muestra los protocolos disponibles
+
+sysctl net.ipv4.tcp_congestion_control --> Muestra protocolo actual
+
+echo "cubic" > /proc/sys/net/ipv4/tcp_congestion_control --> Modifica el procolo a alguno de los disponibles (solo funciona como root, usar su -)
+
+bash test.sh ejecuta el algoritmoc
+
+ls -la /lib/modules/$(uname -r)/kernel/net/ipv4 --> Muestra los modulos de protocolo que se pueden instalar
+
+modprobe -a tcp_westwood --> Habilita el protocolo westwood
+
+con sudo su uso el root en la pc de la uni
