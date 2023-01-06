@@ -1,0 +1,57 @@
+CUBIC
+2023-01-05 14:08:41--  https://wordpress.org/latest.zip
+2023-01-05 14:08:46 (4,57 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m5,913s
+user	0m0,188s
+sys	0m0,349s
+ 
+2023-01-05 14:08:46--  https://wordpress.org/latest.zip
+2023-01-05 14:08:52 (4,43 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m6,036s
+user	0m0,160s
+sys	0m0,271s
+ 
+2023-01-05 14:08:53--  https://wordpress.org/latest.zip
+2023-01-05 14:08:59 (4,27 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m6,252s
+user	0m0,157s
+sys	0m0,294s
+
+RENO
+2023-01-05 14:09:31--  https://wordpress.org/latest.zip
+2023-01-05 14:09:36 (4,78 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m5,652s
+user	0m0,214s
+sys	0m0,355s
+ 
+2023-01-05 14:09:36--  https://wordpress.org/latest.zip
+2023-01-05 14:09:42 (4,40 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m6,088s
+user	0m0,255s
+sys	0m0,360s
+ 
+2023-01-05 14:09:42--  https://wordpress.org/latest.zip
+2023-01-05 14:09:49 (4,43 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m6,019s
+user	0m0,154s
+sys	0m0,340s
+ 
+VEGAS
+2023-01-05 14:10:11--  https://wordpress.org/latest.zip
+2023-01-05 14:10:17 (4,69 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m5,748s
+user	0m0,181s
+sys	0m0,415s
+ 
+2023-01-05 14:10:17--  https://wordpress.org/latest.zip
+2023-01-05 14:10:23 (4,19 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m6,329s
+user	0m0,219s
+sys	0m0,296s
+ 
+2023-01-05 14:10:23--  https://wordpress.org/latest.zip
+2023-01-05 14:10:29 (4,36 MB/s) - ‘latest.zip’ saved [24369959/24369959]
+real	0m6,123s
+user	0m0,167s
+sys	0m0,278s
+ 
