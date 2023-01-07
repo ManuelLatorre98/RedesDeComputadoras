@@ -8,13 +8,11 @@ makeTCPRequest(){
       grep -o '2023-.*' download.txt >> data.log
       sed -n '2,4p' time.txt >> data.log
       echo " " >> data.log
-      rm latest.zip
+      rm Undertale.zip
    done
 }
 
 download(){
-   wget https://wordpress.org/latest.zip
+   wget https://www34.zippyshare.com/d/KF4kFwyM/27577/Undertale.zip
 }
 makeTCPRequest
-
-
