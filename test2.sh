@@ -12,7 +12,5 @@ makeTCPRequest(){
    done
 }
 
-download(){
-   wget https://www34.zippyshare.com/d/KF4kFwyM/27577/Undertale.zip
-}
+
 makeTCPRequest

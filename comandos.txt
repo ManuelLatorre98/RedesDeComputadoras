@@ -11,3 +11,4 @@ ls -la /lib/modules/$(uname -r)/kernel/net/ipv4 --> Muestra los modulos de proto
 modprobe -a tcp_westwood --> Habilita el protocolo westwood
 
 con sudo su uso el root en la pc de la uni
+
