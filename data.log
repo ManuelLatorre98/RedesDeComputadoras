@@ -1,0 +1,2642 @@
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 09:50:41--  https://wordpress.org/latest.zip
+2023-01-12 09:50:47 (4,51 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,048s
+user	0m0,187s
+sys	0m0,374s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 09:50:47--  https://wordpress.org/latest.zip
+2023-01-12 09:50:52 (5,24 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,227s
+user	0m0,176s
+sys	0m0,334s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 09:50:52--  https://wordpress.org/latest.zip
+2023-01-12 09:50:59 (4,37 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,100s
+user	0m0,167s
+sys	0m0,329s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 09:50:59--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:51:45 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,271s
+user	0m1,204s
+sys	0m2,425s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 09:51:45--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:52:31 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,251s
+user	0m1,263s
+sys	0m2,897s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 09:52:31--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:53:17 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,710s
+user	0m1,616s
+sys	0m3,400s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 09:53:17--  https://wordpress.org/latest.zip
+2023-01-12 09:53:22 (5,11 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,488s
+user	0m0,228s
+sys	0m0,426s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 09:53:22--  https://wordpress.org/latest.zip
+2023-01-12 09:53:28 (5,18 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,269s
+user	0m0,193s
+sys	0m0,440s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 09:53:28--  https://wordpress.org/latest.zip
+2023-01-12 09:53:33 (5,45 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,044s
+user	0m0,204s
+sys	0m0,434s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 09:53:33--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:54:18 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,729s
+user	0m1,310s
+sys	0m3,056s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 09:54:19--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:55:05 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,300s
+user	0m1,310s
+sys	0m2,884s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 09:55:05--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:55:51 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,705s
+user	0m1,236s
+sys	0m2,729s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 09:55:51--  https://wordpress.org/latest.zip
+2023-01-12 09:55:57 (4,57 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,941s
+user	0m0,156s
+sys	0m0,408s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 09:55:57--  https://wordpress.org/latest.zip
+2023-01-12 09:56:02 (5,13 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,326s
+user	0m0,208s
+sys	0m0,249s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 09:56:02--  https://wordpress.org/latest.zip
+2023-01-12 09:56:08 (4,31 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,183s
+user	0m0,183s
+sys	0m0,372s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 09:56:08--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:56:54 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,786s
+user	0m1,182s
+sys	0m2,863s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 09:56:54--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:57:40 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,701s
+user	0m1,575s
+sys	0m3,243s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 09:57:40--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 09:58:26 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,674s
+user	0m1,329s
+sys	0m2,864s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 10:58:26--  https://wordpress.org/latest.zip
+2023-01-12 10:58:31 (5,22 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,271s
+user	0m0,209s
+sys	0m0,394s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 10:58:31--  https://wordpress.org/latest.zip
+2023-01-12 10:58:36 (4,97 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,463s
+user	0m0,204s
+sys	0m0,415s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 10:58:36--  https://wordpress.org/latest.zip
+2023-01-12 10:58:42 (5,39 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,087s
+user	0m0,216s
+sys	0m0,381s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 10:58:42--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 10:59:28 (2,70 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,476s
+user	0m1,158s
+sys	0m2,610s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 10:59:28--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 11:00:14 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,650s
+user	0m1,089s
+sys	0m2,564s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 11:00:14--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 11:00:59 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,751s
+user	0m1,306s
+sys	0m2,900s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 11:01:00--  https://wordpress.org/latest.zip
+2023-01-12 11:01:06 (4,12 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,482s
+user	0m0,164s
+sys	0m0,402s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 11:01:06--  https://wordpress.org/latest.zip
+2023-01-12 11:01:11 (5,14 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,305s
+user	0m0,190s
+sys	0m0,298s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 11:01:11--  https://wordpress.org/latest.zip
+2023-01-12 11:01:17 (4,59 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,843s
+user	0m0,207s
+sys	0m0,345s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 11:01:17--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 11:02:03 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,694s
+user	0m1,275s
+sys	0m2,507s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 11:02:03--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 11:02:49 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,684s
+user	0m1,153s
+sys	0m2,371s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 11:02:49--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 11:03:34 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,726s
+user	0m1,342s
+sys	0m2,763s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 11:03:34--  https://wordpress.org/latest.zip
+2023-01-12 11:03:39 (5,67 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m4,919s
+user	0m0,258s
+sys	0m0,376s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 11:03:39--  https://wordpress.org/latest.zip
+2023-01-12 11:03:46 (4,25 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,260s
+user	0m0,205s
+sys	0m0,339s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 11:03:46--  https://wordpress.org/latest.zip
+2023-01-12 11:03:51 (5,28 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,187s
+user	0m0,168s
+sys	0m0,397s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 11:03:51--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 11:04:37 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,732s
+user	0m1,316s
+sys	0m2,659s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 11:04:37--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 11:05:22 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,797s
+user	0m1,096s
+sys	0m2,538s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 11:05:22--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 11:06:08 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,911s
+user	0m0,906s
+sys	0m1,766s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 12:06:08--  https://wordpress.org/latest.zip
+2023-01-12 12:06:14 (4,85 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,616s
+user	0m0,213s
+sys	0m0,344s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 12:06:14--  https://wordpress.org/latest.zip
+2023-01-12 12:06:20 (4,57 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,860s
+user	0m0,165s
+sys	0m0,405s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 12:06:20--  https://wordpress.org/latest.zip
+2023-01-12 12:06:26 (4,45 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,995s
+user	0m0,141s
+sys	0m0,353s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 12:06:26--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:07:12 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,463s
+user	0m1,090s
+sys	0m2,403s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 12:07:12--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:07:58 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,721s
+user	0m1,311s
+sys	0m2,975s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 12:07:58--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:08:44 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,646s
+user	0m1,166s
+sys	0m2,630s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 12:08:44--  https://wordpress.org/latest.zip
+2023-01-12 12:08:49 (5,13 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,355s
+user	0m0,137s
+sys	0m0,337s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 12:08:49--  https://wordpress.org/latest.zip
+2023-01-12 12:08:56 (4,16 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,364s
+user	0m0,196s
+sys	0m0,343s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 12:08:56--  https://wordpress.org/latest.zip
+2023-01-12 12:09:01 (5,03 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,400s
+user	0m0,152s
+sys	0m0,377s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 12:09:01--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:09:47 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,670s
+user	0m1,041s
+sys	0m2,415s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 12:09:47--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:10:32 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,716s
+user	0m1,091s
+sys	0m2,468s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 12:10:32--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:11:18 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,723s
+user	0m1,071s
+sys	0m2,179s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 12:11:18--  https://wordpress.org/latest.zip
+2023-01-12 12:11:24 (4,88 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,568s
+user	0m0,157s
+sys	0m0,277s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 12:11:24--  https://wordpress.org/latest.zip
+2023-01-12 12:11:30 (4,65 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,800s
+user	0m0,169s
+sys	0m0,252s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 12:11:30--  https://wordpress.org/latest.zip
+2023-01-12 12:11:35 (5,21 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,243s
+user	0m0,200s
+sys	0m0,359s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 12:11:35--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:12:21 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,760s
+user	0m1,046s
+sys	0m2,075s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 12:12:21--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:13:06 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,691s
+user	0m1,161s
+sys	0m2,421s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 12:13:06--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 12:13:52 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,801s
+user	0m1,178s
+sys	0m2,623s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 13:13:52--  https://wordpress.org/latest.zip
+2023-01-12 13:13:58 (5,09 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,421s
+user	0m0,190s
+sys	0m0,368s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 13:13:58--  https://wordpress.org/latest.zip
+2023-01-12 13:14:03 (4,71 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,714s
+user	0m0,172s
+sys	0m0,329s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 13:14:04--  https://wordpress.org/latest.zip
+2023-01-12 13:14:09 (5,30 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,171s
+user	0m0,202s
+sys	0m0,315s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 13:14:09--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:14:55 (2,70 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,494s
+user	0m0,934s
+sys	0m1,927s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 13:14:55--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:15:41 (2,72 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,230s
+user	0m1,040s
+sys	0m2,273s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 13:15:42--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:16:27 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,762s
+user	0m1,104s
+sys	0m2,401s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 13:16:27--  https://wordpress.org/latest.zip
+2023-01-12 13:16:34 (4,24 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,306s
+user	0m0,181s
+sys	0m0,271s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 13:16:34--  https://wordpress.org/latest.zip
+2023-01-12 13:16:39 (5,23 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,291s
+user	0m0,147s
+sys	0m0,338s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 13:16:39--  https://wordpress.org/latest.zip
+2023-01-12 13:16:45 (4,49 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,956s
+user	0m0,116s
+sys	0m0,284s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 13:16:45--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:17:31 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,754s
+user	0m0,933s
+sys	0m2,175s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 13:17:31--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:18:17 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,771s
+user	0m1,049s
+sys	0m2,227s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 13:18:17--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:19:02 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,732s
+user	0m0,966s
+sys	0m2,308s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 13:19:03--  https://wordpress.org/latest.zip
+2023-01-12 13:19:09 (5,24 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,377s
+user	0m0,145s
+sys	0m0,310s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 13:19:09--  https://wordpress.org/latest.zip
+2023-01-12 13:19:14 (4,98 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,508s
+user	0m0,151s
+sys	0m0,246s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 13:19:14--  https://wordpress.org/latest.zip
+2023-01-12 13:19:20 (4,92 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,498s
+user	0m0,088s
+sys	0m0,299s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 13:19:20--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:20:05 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,754s
+user	0m1,018s
+sys	0m2,351s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 13:20:05--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:20:51 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,726s
+user	0m0,908s
+sys	0m1,901s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 13:20:51--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 13:21:37 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,685s
+user	0m1,083s
+sys	0m2,209s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 14:21:38--  https://wordpress.org/latest.zip
+2023-01-12 14:21:43 (4,67 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,884s
+user	0m0,112s
+sys	0m0,297s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 14:21:43--  https://wordpress.org/latest.zip
+2023-01-12 14:21:50 (4,41 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,117s
+user	0m0,123s
+sys	0m0,326s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 14:21:50--  https://wordpress.org/latest.zip
+2023-01-12 14:21:56 (4,12 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,421s
+user	0m0,157s
+sys	0m0,246s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 14:21:56--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:22:43 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,432s
+user	0m1,000s
+sys	0m2,215s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 14:22:43--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:23:29 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,923s
+user	0m0,989s
+sys	0m2,042s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 14:23:30--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:24:15 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,339s
+user	0m1,054s
+sys	0m2,601s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 14:24:16--  https://wordpress.org/latest.zip
+2023-01-12 14:24:23 (4,03 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,093s
+user	0m0,127s
+sys	0m0,230s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 14:24:23--  https://wordpress.org/latest.zip
+2023-01-12 14:24:29 (4,16 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,473s
+user	0m0,143s
+sys	0m0,242s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 14:24:30--  https://wordpress.org/latest.zip
+2023-01-12 14:24:36 (4,68 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,900s
+user	0m0,176s
+sys	0m0,298s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 14:24:36--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:25:22 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,944s
+user	0m0,982s
+sys	0m2,177s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 14:25:23--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:26:09 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m47,068s
+user	0m0,933s
+sys	0m2,136s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 14:26:11--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:26:58 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m47,223s
+user	0m0,961s
+sys	0m1,838s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 14:26:59--  https://wordpress.org/latest.zip
+2023-01-12 14:27:06 (5,01 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,413s
+user	0m0,119s
+sys	0m0,261s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 14:27:06--  https://wordpress.org/latest.zip
+2023-01-12 14:27:12 (5,07 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,521s
+user	0m0,119s
+sys	0m0,280s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 14:27:13--  https://wordpress.org/latest.zip
+2023-01-12 14:27:19 (4,91 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,451s
+user	0m0,118s
+sys	0m0,250s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 14:27:19--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:28:06 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,652s
+user	0m0,902s
+sys	0m1,949s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 14:28:07--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:28:53 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,589s
+user	0m0,788s
+sys	0m1,663s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 14:28:55--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 14:29:42 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m47,923s
+user	0m0,838s
+sys	0m1,972s
+ 
+
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 15:49:35--  https://wordpress.org/latest.zip
+2023-01-12 15:49:42 (4,25 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,858s
+user	0m0,129s
+sys	0m0,176s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 15:49:42--  https://wordpress.org/latest.zip
+2023-01-12 15:49:49 (4,13 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,407s
+user	0m0,064s
+sys	0m0,171s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 15:49:49--  https://wordpress.org/latest.zip
+2023-01-12 15:49:55 (4,10 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,451s
+user	0m0,072s
+sys	0m0,235s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 15:49:55--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:50:41 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,825s
+user	0m0,844s
+sys	0m1,869s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 15:50:41--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:51:27 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,740s
+user	0m1,469s
+sys	0m2,920s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 15:51:27--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:52:12 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,713s
+user	0m1,495s
+sys	0m3,294s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 15:52:12--  https://wordpress.org/latest.zip
+2023-01-12 15:52:18 (5,21 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,281s
+user	0m0,227s
+sys	0m0,437s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 15:52:18--  https://wordpress.org/latest.zip
+2023-01-12 15:52:23 (5,02 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,426s
+user	0m0,209s
+sys	0m0,421s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 15:52:23--  https://wordpress.org/latest.zip
+2023-01-12 15:52:31 (3,23 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,987s
+user	0m0,210s
+sys	0m0,510s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 15:52:31--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:53:17 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,707s
+user	0m1,403s
+sys	0m2,942s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 15:53:17--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:54:03 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,709s
+user	0m1,538s
+sys	0m3,619s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 15:54:03--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:54:49 (2,73 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,041s
+user	0m1,534s
+sys	0m3,437s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 15:54:49--  https://wordpress.org/latest.zip
+2023-01-12 15:54:54 (5,50 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,015s
+user	0m0,237s
+sys	0m0,350s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 15:54:54--  https://wordpress.org/latest.zip
+2023-01-12 15:55:00 (4,21 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,306s
+user	0m0,217s
+sys	0m0,384s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 15:55:00--  https://wordpress.org/latest.zip
+2023-01-12 15:55:06 (4,79 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,653s
+user	0m0,226s
+sys	0m0,359s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 15:55:06--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:55:52 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,892s
+user	0m1,383s
+sys	0m2,931s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 15:55:52--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:56:38 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,723s
+user	0m1,520s
+sys	0m3,079s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 15:56:38--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 15:57:23 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,719s
+user	0m1,527s
+sys	0m2,955s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 16:57:23--  https://wordpress.org/latest.zip
+2023-01-12 16:57:29 (4,51 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,063s
+user	0m0,254s
+sys	0m0,349s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 16:57:29--  https://wordpress.org/latest.zip
+2023-01-12 16:57:34 (5,41 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,085s
+user	0m0,215s
+sys	0m0,379s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 16:57:35--  https://wordpress.org/latest.zip
+2023-01-12 16:57:42 (3,63 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,251s
+user	0m0,255s
+sys	0m0,540s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 16:57:42--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 16:58:28 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,335s
+user	0m1,377s
+sys	0m2,841s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 16:58:28--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 16:59:14 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,770s
+user	0m1,314s
+sys	0m2,779s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 16:59:14--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 17:00:00 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,737s
+user	0m1,274s
+sys	0m3,159s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 17:00:00--  https://wordpress.org/latest.zip
+2023-01-12 17:00:05 (4,99 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,450s
+user	0m0,221s
+sys	0m0,357s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 17:00:05--  https://wordpress.org/latest.zip
+2023-01-12 17:00:11 (5,02 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,413s
+user	0m0,228s
+sys	0m0,378s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 17:00:11--  https://wordpress.org/latest.zip
+2023-01-12 17:00:17 (5,21 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,132s
+user	0m0,208s
+sys	0m0,411s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 17:00:17--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 17:01:03 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,733s
+user	0m1,764s
+sys	0m3,236s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 17:01:03--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 17:01:48 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,825s
+user	0m1,357s
+sys	0m2,961s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 17:01:49--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 17:02:35 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,725s
+user	0m1,491s
+sys	0m2,904s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 17:02:35--  https://wordpress.org/latest.zip
+2023-01-12 17:02:44 (2,88 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m8,900s
+user	0m0,257s
+sys	0m0,349s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 17:02:44--  https://wordpress.org/latest.zip
+2023-01-12 17:02:50 (4,53 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,930s
+user	0m0,164s
+sys	0m0,416s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 17:02:50--  https://wordpress.org/latest.zip
+2023-01-12 17:02:55 (4,62 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,817s
+user	0m0,162s
+sys	0m0,416s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 17:02:55--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 17:03:41 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,739s
+user	0m1,312s
+sys	0m2,751s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 17:03:41--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 17:04:27 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,703s
+user	0m1,364s
+sys	0m2,930s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 17:04:27--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 17:05:13 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,743s
+user	0m1,642s
+sys	0m3,380s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 18:05:13--  https://wordpress.org/latest.zip
+2023-01-12 18:05:18 (5,01 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,485s
+user	0m0,191s
+sys	0m0,373s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 18:05:18--  https://wordpress.org/latest.zip
+2023-01-12 18:05:25 (3,85 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,840s
+user	0m0,239s
+sys	0m0,354s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 18:05:25--  https://wordpress.org/latest.zip
+2023-01-12 18:05:32 (3,75 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,990s
+user	0m0,207s
+sys	0m0,433s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 18:05:32--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:06:19 (2,68 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,915s
+user	0m1,536s
+sys	0m2,792s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 18:06:19--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:07:05 (2,73 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,963s
+user	0m1,731s
+sys	0m3,911s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 18:07:05--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:08:03 (2,21 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m57,619s
+user	0m0,997s
+sys	0m2,023s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 18:08:03--  https://wordpress.org/latest.zip
+2023-01-12 18:08:08 (5,10 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,339s
+user	0m0,221s
+sys	0m0,334s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 18:08:08--  https://wordpress.org/latest.zip
+2023-01-12 18:08:14 (4,75 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,687s
+user	0m0,208s
+sys	0m0,389s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 18:08:14--  https://wordpress.org/latest.zip
+2023-01-12 18:08:20 (4,28 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,232s
+user	0m0,222s
+sys	0m0,390s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 18:08:20--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:09:06 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,782s
+user	0m1,495s
+sys	0m3,382s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 18:09:06--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:11:26 (925 KB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	2m20,300s
+user	0m1,151s
+sys	0m1,974s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 18:11:26--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:12:12 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,870s
+user	0m1,615s
+sys	0m3,381s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 18:12:12--  https://wordpress.org/latest.zip
+2023-01-12 18:12:19 (3,55 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,366s
+user	0m0,211s
+sys	0m0,392s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 18:12:19--  https://wordpress.org/latest.zip
+2023-01-12 18:12:30 (2,48 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m10,261s
+user	0m0,252s
+sys	0m0,412s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 18:12:30--  https://wordpress.org/latest.zip
+2023-01-12 18:12:36 (4,17 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,364s
+user	0m0,240s
+sys	0m0,382s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 18:12:36--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:13:22 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,803s
+user	0m1,617s
+sys	0m3,275s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 18:13:22--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:14:08 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,730s
+user	0m1,270s
+sys	0m2,937s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 18:14:08--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 18:16:30 (897 KB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	2m22,251s
+user	0m1,138s
+sys	0m1,906s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 19:16:30--  https://wordpress.org/latest.zip
+2023-01-12 19:16:35 (5,14 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,359s
+user	0m0,230s
+sys	0m0,391s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 19:16:35--  https://wordpress.org/latest.zip
+2023-01-12 19:16:41 (4,47 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,985s
+user	0m0,167s
+sys	0m0,467s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 19:16:41--  https://wordpress.org/latest.zip
+2023-01-12 19:16:46 (5,43 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,075s
+user	0m0,207s
+sys	0m0,403s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 19:16:46--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:17:33 (2,70 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,529s
+user	0m1,448s
+sys	0m3,395s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 19:17:33--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:18:52 (1,60 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	1m19,039s
+user	0m0,780s
+sys	0m1,685s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 19:18:52--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:19:38 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,333s
+user	0m1,440s
+sys	0m2,865s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 19:19:38--  https://wordpress.org/latest.zip
+2023-01-12 19:19:44 (4,77 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,699s
+user	0m0,154s
+sys	0m0,416s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 19:19:44--  https://wordpress.org/latest.zip
+2023-01-12 19:19:50 (4,57 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,887s
+user	0m0,195s
+sys	0m0,434s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 19:19:50--  https://wordpress.org/latest.zip
+2023-01-12 19:19:55 (5,45 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,067s
+user	0m0,201s
+sys	0m0,452s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 19:19:55--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:20:41 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,725s
+user	0m1,226s
+sys	0m2,496s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 19:20:41--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:21:33 (2,46 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m51,759s
+user	0m0,994s
+sys	0m2,131s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 19:21:33--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:22:23 (2,53 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m50,316s
+user	0m0,934s
+sys	0m1,984s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 19:22:23--  https://wordpress.org/latest.zip
+2023-01-12 19:22:29 (4,24 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,298s
+user	0m0,165s
+sys	0m0,428s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 19:22:29--  https://wordpress.org/latest.zip
+2023-01-12 19:22:35 (4,48 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,982s
+user	0m0,227s
+sys	0m0,409s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 19:22:35--  https://wordpress.org/latest.zip
+2023-01-12 19:22:41 (4,56 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,893s
+user	0m0,195s
+sys	0m0,397s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 19:22:41--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:23:30 (2,64 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m48,342s
+user	0m1,233s
+sys	0m2,064s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 19:23:30--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:24:43 (1,72 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	1m13,815s
+user	0m0,897s
+sys	0m1,802s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 19:24:43--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 19:25:29 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,687s
+user	0m1,389s
+sys	0m3,094s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 20:25:29--  https://wordpress.org/latest.zip
+2023-01-12 20:25:37 (3,41 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,656s
+user	0m0,262s
+sys	0m0,469s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 20:25:37--  https://wordpress.org/latest.zip
+2023-01-12 20:25:42 (5,41 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,099s
+user	0m0,251s
+sys	0m0,399s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 20:25:42--  https://wordpress.org/latest.zip
+2023-01-12 20:25:48 (4,83 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,601s
+user	0m0,213s
+sys	0m0,360s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 20:25:48--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:26:34 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,422s
+user	0m1,492s
+sys	0m2,682s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 20:26:34--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:27:22 (2,64 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m48,156s
+user	0m1,264s
+sys	0m2,567s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 20:27:22--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:28:11 (2,59 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m49,175s
+user	0m1,094s
+sys	0m2,314s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 20:28:11--  https://wordpress.org/latest.zip
+2023-01-12 20:28:18 (4,34 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,141s
+user	0m0,212s
+sys	0m0,397s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 20:28:18--  https://wordpress.org/latest.zip
+2023-01-12 20:28:23 (4,66 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,775s
+user	0m0,172s
+sys	0m0,360s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 20:28:23--  https://wordpress.org/latest.zip
+2023-01-12 20:28:29 (4,70 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,730s
+user	0m0,160s
+sys	0m0,404s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 20:28:29--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:29:17 (2,68 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m48,103s
+user	0m1,076s
+sys	0m2,382s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 20:29:17--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:31:11 (1,10 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	1m53,611s
+user	0m1,106s
+sys	0m2,226s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 20:31:11--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:32:53 (1,23 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	1m42,075s
+user	0m1,032s
+sys	0m2,388s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 20:32:53--  https://wordpress.org/latest.zip
+2023-01-12 20:32:59 (4,44 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,072s
+user	0m0,143s
+sys	0m0,407s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 20:32:59--  https://wordpress.org/latest.zip
+2023-01-12 20:33:05 (4,50 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,002s
+user	0m0,176s
+sys	0m0,387s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 20:33:05--  https://wordpress.org/latest.zip
+2023-01-12 20:33:13 (3,26 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,923s
+user	0m0,207s
+sys	0m0,630s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 20:33:13--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:33:59 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,739s
+user	0m1,258s
+sys	0m2,750s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 20:33:59--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:34:45 (2,72 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,124s
+user	0m1,529s
+sys	0m2,947s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 20:34:45--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 20:35:31 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,747s
+user	0m1,395s
+sys	0m3,174s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 21:35:31--  https://wordpress.org/latest.zip
+2023-01-12 21:35:37 (4,75 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,702s
+user	0m0,191s
+sys	0m0,337s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 21:35:37--  https://wordpress.org/latest.zip
+2023-01-12 21:35:42 (5,34 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,145s
+user	0m0,202s
+sys	0m0,297s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 21:35:42--  https://wordpress.org/latest.zip
+2023-01-12 21:35:47 (4,89 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,538s
+user	0m0,169s
+sys	0m0,278s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 21:35:47--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:36:34 (2,69 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m47,144s
+user	0m1,175s
+sys	0m2,636s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 21:36:34--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:37:21 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,285s
+user	0m1,271s
+sys	0m2,274s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 21:37:21--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:38:07 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,569s
+user	0m0,969s
+sys	0m1,813s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 21:38:07--  https://wordpress.org/latest.zip
+2023-01-12 21:38:13 (4,83 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,690s
+user	0m0,199s
+sys	0m0,348s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 21:38:13--  https://wordpress.org/latest.zip
+2023-01-12 21:38:19 (4,98 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,444s
+user	0m0,179s
+sys	0m0,340s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 21:38:19--  https://wordpress.org/latest.zip
+2023-01-12 21:38:24 (4,93 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,509s
+user	0m0,170s
+sys	0m0,370s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 21:38:24--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:39:10 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,693s
+user	0m1,160s
+sys	0m2,367s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 21:39:10--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:39:55 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,674s
+user	0m1,091s
+sys	0m2,267s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 21:39:55--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:40:41 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,633s
+user	0m1,053s
+sys	0m1,987s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 21:40:41--  https://wordpress.org/latest.zip
+2023-01-12 21:40:48 (3,65 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,152s
+user	0m0,140s
+sys	0m0,322s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 21:40:48--  https://wordpress.org/latest.zip
+2023-01-12 21:40:54 (4,37 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,114s
+user	0m0,168s
+sys	0m0,333s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 21:40:54--  https://wordpress.org/latest.zip
+2023-01-12 21:41:02 (3,70 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,063s
+user	0m0,176s
+sys	0m0,252s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 21:41:02--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:41:47 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,747s
+user	0m1,216s
+sys	0m2,144s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 21:41:47--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:42:41 (2,37 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m54,040s
+user	0m0,825s
+sys	0m1,423s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 21:42:41--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 21:43:27 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,718s
+user	0m1,230s
+sys	0m2,252s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 22:43:27--  https://wordpress.org/latest.zip
+2023-01-12 22:43:33 (4,24 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,334s
+user	0m0,146s
+sys	0m0,301s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 22:43:34--  https://wordpress.org/latest.zip
+2023-01-12 22:43:39 (4,66 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,778s
+user	0m0,167s
+sys	0m0,293s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 22:43:39--  https://wordpress.org/latest.zip
+2023-01-12 22:43:45 (4,68 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,756s
+user	0m0,127s
+sys	0m0,365s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 22:43:45--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:44:31 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,414s
+user	0m0,964s
+sys	0m2,134s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 22:44:32--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:45:18 (2,72 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,145s
+user	0m1,423s
+sys	0m2,748s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 22:45:18--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:46:11 (2,39 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m53,453s
+user	0m0,869s
+sys	0m1,682s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 22:46:11--  https://wordpress.org/latest.zip
+2023-01-12 22:46:17 (4,56 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,891s
+user	0m0,163s
+sys	0m0,305s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 22:46:17--  https://wordpress.org/latest.zip
+2023-01-12 22:46:23 (4,81 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,633s
+user	0m0,138s
+sys	0m0,289s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 22:46:23--  https://wordpress.org/latest.zip
+2023-01-12 22:46:28 (4,94 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,490s
+user	0m0,143s
+sys	0m0,347s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 22:46:28--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:47:15 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,900s
+user	0m1,073s
+sys	0m2,180s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 22:47:15--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:48:05 (2,52 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m50,331s
+user	0m0,905s
+sys	0m1,415s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 22:48:06--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:48:51 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,641s
+user	0m1,120s
+sys	0m2,146s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 22:48:51--  https://wordpress.org/latest.zip
+2023-01-12 22:48:57 (4,92 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,736s
+user	0m0,191s
+sys	0m0,316s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 22:48:57--  https://wordpress.org/latest.zip
+2023-01-12 22:49:05 (3,00 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m8,533s
+user	0m0,181s
+sys	0m0,365s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 22:49:06--  https://wordpress.org/latest.zip
+2023-01-12 22:49:11 (4,80 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,636s
+user	0m0,133s
+sys	0m0,339s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 22:49:11--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:49:57 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,670s
+user	0m1,186s
+sys	0m2,360s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 22:49:57--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:50:45 (2,63 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m48,363s
+user	0m0,855s
+sys	0m1,825s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 22:50:45--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 22:51:44 (2,13 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m59,204s
+user	0m0,782s
+sys	0m1,489s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 23:51:44--  https://wordpress.org/latest.zip
+2023-01-12 23:51:52 (3,66 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,165s
+user	0m0,136s
+sys	0m0,288s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 23:51:52--  https://wordpress.org/latest.zip
+2023-01-12 23:51:58 (4,05 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,521s
+user	0m0,193s
+sys	0m0,246s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 23:51:58--  https://wordpress.org/latest.zip
+2023-01-12 23:52:04 (4,49 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,962s
+user	0m0,136s
+sys	0m0,345s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 23:52:04--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:52:51 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,401s
+user	0m1,170s
+sys	0m2,371s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 23:52:51--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:53:36 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,767s
+user	0m1,144s
+sys	0m2,398s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-12 23:53:36--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:54:22 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,642s
+user	0m1,126s
+sys	0m2,316s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 23:54:22--  https://wordpress.org/latest.zip
+2023-01-12 23:54:27 (5,34 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,237s
+user	0m0,255s
+sys	0m0,251s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 23:54:27--  https://wordpress.org/latest.zip
+2023-01-12 23:54:35 (3,34 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,763s
+user	0m0,163s
+sys	0m0,317s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 23:54:35--  https://wordpress.org/latest.zip
+2023-01-12 23:54:41 (4,78 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,646s
+user	0m0,128s
+sys	0m0,335s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 23:54:41--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:55:27 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,806s
+user	0m1,241s
+sys	0m2,392s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 23:55:27--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:56:12 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,665s
+user	0m1,141s
+sys	0m2,389s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-12 23:56:12--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:56:59 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,519s
+user	0m1,148s
+sys	0m2,306s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 23:56:59--  https://wordpress.org/latest.zip
+2023-01-12 23:57:05 (4,38 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,123s
+user	0m0,161s
+sys	0m0,296s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 23:57:05--  https://wordpress.org/latest.zip
+2023-01-12 23:57:11 (4,67 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,767s
+user	0m0,142s
+sys	0m0,274s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 23:57:11--  https://wordpress.org/latest.zip
+2023-01-12 23:57:16 (4,78 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,653s
+user	0m0,185s
+sys	0m0,261s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 23:57:16--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:58:02 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,679s
+user	0m1,070s
+sys	0m2,233s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 23:58:02--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:58:48 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,651s
+user	0m1,079s
+sys	0m2,243s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-12 23:58:48--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-12 23:59:34 (2,73 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,059s
+user	0m0,979s
+sys	0m1,909s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 00:59:34--  https://wordpress.org/latest.zip
+2023-01-13 00:59:40 (4,84 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,850s
+user	0m0,142s
+sys	0m0,265s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 00:59:40--  https://wordpress.org/latest.zip
+2023-01-13 00:59:46 (4,38 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,102s
+user	0m0,160s
+sys	0m0,307s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 00:59:46--  https://wordpress.org/latest.zip
+2023-01-13 00:59:51 (5,04 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,402s
+user	0m0,170s
+sys	0m0,353s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 00:59:51--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:00:38 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,422s
+user	0m1,208s
+sys	0m2,475s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 01:00:38--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:01:24 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,334s
+user	0m0,878s
+sys	0m1,619s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 01:01:24--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:02:10 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,827s
+user	0m1,160s
+sys	0m2,431s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 01:02:10--  https://wordpress.org/latest.zip
+2023-01-13 01:02:16 (5,05 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,439s
+user	0m0,132s
+sys	0m0,311s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 01:02:16--  https://wordpress.org/latest.zip
+2023-01-13 01:02:21 (4,90 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,588s
+user	0m0,188s
+sys	0m0,312s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 01:02:21--  https://wordpress.org/latest.zip
+2023-01-13 01:02:27 (4,92 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,509s
+user	0m0,153s
+sys	0m0,355s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 01:02:27--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:03:12 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,777s
+user	0m1,276s
+sys	0m2,610s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 01:03:13--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:03:59 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,698s
+user	0m1,234s
+sys	0m2,602s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 01:03:59--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:04:45 (2,73 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,002s
+user	0m1,254s
+sys	0m2,259s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 01:04:45--  https://wordpress.org/latest.zip
+2023-01-13 01:04:50 (5,23 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,226s
+user	0m0,182s
+sys	0m0,310s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 01:04:50--  https://wordpress.org/latest.zip
+2023-01-13 01:04:56 (4,63 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,806s
+user	0m0,165s
+sys	0m0,278s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 01:04:56--  https://wordpress.org/latest.zip
+2023-01-13 01:05:01 (4,63 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,806s
+user	0m0,169s
+sys	0m0,345s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 01:05:01--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:05:47 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,803s
+user	0m1,061s
+sys	0m2,064s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 01:05:47--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:06:33 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,851s
+user	0m1,320s
+sys	0m2,539s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 01:06:33--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 01:07:19 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,759s
+user	0m1,242s
+sys	0m2,560s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 02:07:19--  https://wordpress.org/latest.zip
+2023-01-13 02:07:25 (4,22 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,342s
+user	0m0,138s
+sys	0m0,322s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 02:07:25--  https://wordpress.org/latest.zip
+2023-01-13 02:07:32 (4,01 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,586s
+user	0m0,142s
+sys	0m0,339s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 02:07:32--  https://wordpress.org/latest.zip
+2023-01-13 02:07:38 (4,88 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,548s
+user	0m0,183s
+sys	0m0,308s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 02:07:38--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:08:24 (2,69 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,692s
+user	0m1,259s
+sys	0m2,850s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 02:08:24--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:09:11 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,320s
+user	0m1,185s
+sys	0m2,456s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 02:09:11--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:09:57 (2,69 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,638s
+user	0m1,089s
+sys	0m2,067s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 02:09:57--  https://wordpress.org/latest.zip
+2023-01-13 02:10:04 (3,84 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,837s
+user	0m0,151s
+sys	0m0,315s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 02:10:04--  https://wordpress.org/latest.zip
+2023-01-13 02:10:10 (4,26 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,261s
+user	0m0,155s
+sys	0m0,339s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 02:10:10--  https://wordpress.org/latest.zip
+2023-01-13 02:10:17 (4,13 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,409s
+user	0m0,145s
+sys	0m0,330s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 02:10:17--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:11:03 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,652s
+user	0m1,194s
+sys	0m2,466s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 02:11:03--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:11:49 (2,73 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,998s
+user	0m1,281s
+sys	0m2,555s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 02:11:49--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:12:34 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,769s
+user	0m1,286s
+sys	0m2,422s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 02:12:34--  https://wordpress.org/latest.zip
+2023-01-13 02:12:40 (4,61 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,849s
+user	0m0,165s
+sys	0m0,258s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 02:12:40--  https://wordpress.org/latest.zip
+2023-01-13 02:12:46 (4,34 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,135s
+user	0m0,187s
+sys	0m0,306s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 02:12:46--  https://wordpress.org/latest.zip
+2023-01-13 02:12:54 (3,95 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,291s
+user	0m0,204s
+sys	0m0,330s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 02:12:54--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:13:40 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,382s
+user	0m1,284s
+sys	0m2,596s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 02:13:40--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:14:27 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,592s
+user	0m1,190s
+sys	0m2,756s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 02:14:27--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 02:15:14 (2,68 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,740s
+user	0m1,221s
+sys	0m2,447s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 03:15:14--  https://wordpress.org/latest.zip
+2023-01-13 03:15:20 (4,31 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,232s
+user	0m0,177s
+sys	0m0,320s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 03:15:20--  https://wordpress.org/latest.zip
+2023-01-13 03:15:25 (5,41 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,075s
+user	0m0,179s
+sys	0m0,345s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 03:15:25--  https://wordpress.org/latest.zip
+2023-01-13 03:15:32 (4,00 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,259s
+user	0m0,196s
+sys	0m0,312s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 03:15:32--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:16:19 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,420s
+user	0m1,055s
+sys	0m2,243s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 03:16:19--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:17:05 (2,72 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,242s
+user	0m1,159s
+sys	0m2,323s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 03:17:05--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:17:52 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,335s
+user	0m1,262s
+sys	0m2,472s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 03:17:52--  https://wordpress.org/latest.zip
+2023-01-13 03:17:57 (5,05 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,406s
+user	0m0,161s
+sys	0m0,327s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 03:17:57--  https://wordpress.org/latest.zip
+2023-01-13 03:18:04 (3,82 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,875s
+user	0m0,113s
+sys	0m0,330s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 03:18:04--  https://wordpress.org/latest.zip
+2023-01-13 03:18:14 (2,55 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m9,884s
+user	0m0,270s
+sys	0m0,444s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 03:18:14--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:19:00 (2,70 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,423s
+user	0m0,777s
+sys	0m1,787s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 03:19:00--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:19:46 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,648s
+user	0m1,179s
+sys	0m2,397s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 03:19:46--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:20:32 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,840s
+user	0m0,986s
+sys	0m2,334s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 03:20:32--  https://wordpress.org/latest.zip
+2023-01-13 03:20:37 (5,40 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,150s
+user	0m0,188s
+sys	0m0,344s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 03:20:37--  https://wordpress.org/latest.zip
+2023-01-13 03:20:43 (4,34 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,144s
+user	0m0,186s
+sys	0m0,265s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 03:20:43--  https://wordpress.org/latest.zip
+2023-01-13 03:20:48 (5,35 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,140s
+user	0m0,167s
+sys	0m0,360s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 03:20:49--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:21:36 (2,65 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m47,325s
+user	0m1,310s
+sys	0m2,449s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 03:21:36--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:22:22 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,836s
+user	0m1,337s
+sys	0m2,780s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 03:22:22--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 03:23:08 (2,73 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,030s
+user	0m1,244s
+sys	0m2,670s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 04:23:08--  https://wordpress.org/latest.zip
+2023-01-13 04:23:14 (3,99 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,687s
+user	0m0,170s
+sys	0m0,339s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 04:23:15--  https://wordpress.org/latest.zip
+2023-01-13 04:23:23 (3,11 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m8,256s
+user	0m0,161s
+sys	0m0,462s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 04:23:23--  https://wordpress.org/latest.zip
+2023-01-13 04:23:28 (5,01 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,479s
+user	0m0,148s
+sys	0m0,369s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 04:23:28--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:24:15 (2,70 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,520s
+user	0m1,112s
+sys	0m2,347s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 04:24:15--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:25:00 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,642s
+user	0m1,187s
+sys	0m2,403s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 04:25:01--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:25:46 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,691s
+user	0m1,166s
+sys	0m2,317s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 04:25:46--  https://wordpress.org/latest.zip
+2023-01-13 04:25:53 (4,22 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,292s
+user	0m0,214s
+sys	0m0,323s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 04:25:53--  https://wordpress.org/latest.zip
+2023-01-13 04:26:01 (4,98 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m8,481s
+user	0m0,155s
+sys	0m0,311s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 04:26:01--  https://wordpress.org/latest.zip
+2023-01-13 04:26:09 (4,06 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,504s
+user	0m0,160s
+sys	0m0,297s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 04:26:09--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:26:54 (2,74 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,874s
+user	0m1,356s
+sys	0m2,716s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 04:26:54--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:27:40 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,674s
+user	0m1,249s
+sys	0m2,550s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 04:27:40--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:28:26 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,653s
+user	0m1,129s
+sys	0m2,584s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 04:28:26--  https://wordpress.org/latest.zip
+2023-01-13 04:28:33 (4,02 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,619s
+user	0m0,148s
+sys	0m0,327s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 04:28:33--  https://wordpress.org/latest.zip
+2023-01-13 04:28:38 (4,73 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,702s
+user	0m0,205s
+sys	0m0,293s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 04:28:38--  https://wordpress.org/latest.zip
+2023-01-13 04:28:44 (4,88 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,535s
+user	0m0,193s
+sys	0m0,315s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 04:28:44--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:29:29 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,718s
+user	0m1,103s
+sys	0m2,522s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 04:29:30--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:30:15 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,634s
+user	0m1,154s
+sys	0m2,241s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 04:30:15--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 04:31:01 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,661s
+user	0m1,225s
+sys	0m2,473s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 05:31:01--  https://wordpress.org/latest.zip
+2023-01-13 05:31:08 (3,52 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,438s
+user	0m0,156s
+sys	0m0,431s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 05:31:08--  https://wordpress.org/latest.zip
+2023-01-13 05:31:15 (4,14 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,407s
+user	0m0,191s
+sys	0m0,317s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 05:31:15--  https://wordpress.org/latest.zip
+2023-01-13 05:31:21 (4,63 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,790s
+user	0m0,189s
+sys	0m0,321s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 05:31:21--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:32:07 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,389s
+user	0m1,035s
+sys	0m1,863s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 05:32:07--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:32:53 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,670s
+user	0m0,977s
+sys	0m2,260s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 05:32:53--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:33:38 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,715s
+user	0m1,455s
+sys	0m2,600s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 05:33:38--  https://wordpress.org/latest.zip
+2023-01-13 05:33:45 (4,01 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,573s
+user	0m0,193s
+sys	0m0,259s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 05:33:45--  https://wordpress.org/latest.zip
+2023-01-13 05:33:51 (4,52 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,927s
+user	0m0,154s
+sys	0m0,323s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 05:33:51--  https://wordpress.org/latest.zip
+2023-01-13 05:33:57 (4,28 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,207s
+user	0m0,135s
+sys	0m0,352s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 05:33:57--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:34:43 (2,72 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,248s
+user	0m1,191s
+sys	0m2,283s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 05:34:44--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:35:29 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,677s
+user	0m1,207s
+sys	0m2,293s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 05:35:29--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:36:15 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,691s
+user	0m1,270s
+sys	0m2,398s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 05:36:15--  https://wordpress.org/latest.zip
+2023-01-13 05:36:21 (4,48 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,045s
+user	0m0,155s
+sys	0m0,288s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 05:36:21--  https://wordpress.org/latest.zip
+2023-01-13 05:36:27 (4,48 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,972s
+user	0m0,167s
+sys	0m0,297s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 05:36:27--  https://wordpress.org/latest.zip
+2023-01-13 05:36:34 (3,77 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,960s
+user	0m0,166s
+sys	0m0,323s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 05:36:34--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:37:20 (2,72 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,245s
+user	0m1,211s
+sys	0m2,316s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 05:37:20--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:38:06 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,669s
+user	0m1,185s
+sys	0m2,445s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 05:38:06--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 05:38:52 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,674s
+user	0m1,291s
+sys	0m2,412s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 06:38:52--  https://wordpress.org/latest.zip
+2023-01-13 06:38:59 (3,59 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,321s
+user	0m0,177s
+sys	0m0,338s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 06:38:59--  https://wordpress.org/latest.zip
+2023-01-13 06:39:05 (4,44 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,024s
+user	0m0,166s
+sys	0m0,299s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 06:39:05--  https://wordpress.org/latest.zip
+2023-01-13 06:39:12 (3,51 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m7,413s
+user	0m0,183s
+sys	0m0,321s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 06:39:12--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:39:59 (2,71 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m46,392s
+user	0m1,094s
+sys	0m2,002s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 06:39:59--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:40:45 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,648s
+user	0m1,163s
+sys	0m2,229s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 06:40:45--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:41:30 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,655s
+user	0m1,129s
+sys	0m2,255s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 06:41:30--  https://wordpress.org/latest.zip
+2023-01-13 06:41:36 (5,05 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,445s
+user	0m0,154s
+sys	0m0,324s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 06:41:36--  https://wordpress.org/latest.zip
+2023-01-13 06:41:42 (4,16 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,382s
+user	0m0,198s
+sys	0m0,322s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 06:41:42--  https://wordpress.org/latest.zip
+2023-01-13 06:41:48 (4,28 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,214s
+user	0m0,207s
+sys	0m0,265s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 06:41:48--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:42:38 (2,52 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m49,610s
+user	0m1,190s
+sys	0m2,463s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 06:42:38--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:43:24 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,644s
+user	0m1,165s
+sys	0m2,349s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 06:43:24--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:44:09 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,714s
+user	0m1,215s
+sys	0m2,706s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 06:44:09--  https://wordpress.org/latest.zip
+2023-01-13 06:44:15 (5,30 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,162s
+user	0m0,127s
+sys	0m0,225s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 06:44:15--  https://wordpress.org/latest.zip
+2023-01-13 06:44:20 (4,75 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,680s
+user	0m0,140s
+sys	0m0,317s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 06:44:20--  https://wordpress.org/latest.zip
+2023-01-13 06:44:26 (4,36 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,115s
+user	0m0,138s
+sys	0m0,197s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 06:44:26--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:45:12 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,681s
+user	0m1,370s
+sys	0m2,614s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 06:45:12--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:45:58 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,645s
+user	0m1,172s
+sys	0m2,239s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 06:45:58--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 06:46:43 (2,75 MB/s) - ‘trashFile.zip’ saved [128472792/128472792]
+real	0m45,620s
+user	0m1,158s
+sys	0m2,329s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 07:46:44--  https://wordpress.org/latest.zip
+2023-01-13 07:47:10 (3,13 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m26,039s
+user	0m0,206s
+sys	0m0,461s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 07:47:10--  https://wordpress.org/latest.zip
+2023-01-13 07:47:23 (4,30 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m13,493s
+user	0m0,211s
+sys	0m0,284s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 07:47:23--  https://wordpress.org/latest.zip
+2023-01-13 07:47:29 (4,71 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,717s
+user	0m0,156s
+sys	0m0,322s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 07:47:29--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:47:30 ERROR 412: Precondition Failed.
+real	0m1,672s
+user	0m0,015s
+sys	0m0,000s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 07:47:31--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:47:32 ERROR 412: Precondition Failed.
+real	0m1,626s
+user	0m0,008s
+sys	0m0,010s
+ 
+net.ipv4.tcp_congestion_control = cubic
+2023-01-13 07:47:32--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:47:34 ERROR 412: Precondition Failed.
+real	0m1,643s
+user	0m0,009s
+sys	0m0,010s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 07:47:34--  https://wordpress.org/latest.zip
+2023-01-13 07:47:39 (4,99 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,445s
+user	0m0,187s
+sys	0m0,344s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 07:47:39--  https://wordpress.org/latest.zip
+2023-01-13 07:47:46 (4,08 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,494s
+user	0m0,149s
+sys	0m0,314s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 07:47:46--  https://wordpress.org/latest.zip
+2023-01-13 07:47:52 (3,93 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m6,698s
+user	0m0,177s
+sys	0m0,370s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 07:47:52--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:47:54 ERROR 412: Precondition Failed.
+real	0m1,666s
+user	0m0,004s
+sys	0m0,008s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 07:47:54--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:47:56 ERROR 412: Precondition Failed.
+real	0m1,684s
+user	0m0,008s
+sys	0m0,013s
+ 
+net.ipv4.tcp_congestion_control = reno
+2023-01-13 07:47:56--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:47:57 ERROR 412: Precondition Failed.
+real	0m1,634s
+user	0m0,018s
+sys	0m0,004s
+ 
+HOST 1
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 07:47:57--  https://wordpress.org/latest.zip
+2023-01-13 07:48:03 (4,86 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,562s
+user	0m0,197s
+sys	0m0,314s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 07:48:03--  https://wordpress.org/latest.zip
+2023-01-13 07:48:08 (5,22 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,234s
+user	0m0,146s
+sys	0m0,356s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 07:48:08--  https://wordpress.org/latest.zip
+2023-01-13 07:48:14 (4,82 MB/s) - ‘trashFile.zip’ saved [24369959/24369959]
+real	0m5,604s
+user	0m0,173s
+sys	0m0,320s
+ 
+HOST 2
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 07:48:14--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:48:16 ERROR 412: Precondition Failed.
+real	0m1,676s
+user	0m0,000s
+sys	0m0,012s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 07:48:16--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:48:17 ERROR 412: Precondition Failed.
+real	0m1,624s
+user	0m0,015s
+sys	0m0,004s
+ 
+net.ipv4.tcp_congestion_control = vegas
+2023-01-13 07:48:17--  https://www63.uptobox.com/dl/5-PrzAB5ZKO49AcslkuZViQFcI_bDzUjWn44qudW5l-20k_QIppDUFtmasqgebK1v0Doo0Tr2P4VecpmYeqCmGh_rp16tna0GMfXlGh9qt9gErtSuAZ5Twr9J2GV9GOV3O8IeR9Lhjxi60hNXYiKPA/Undertale.zip
+2023-01-13 07:48:19 ERROR 412: Precondition Failed.
+real	0m1,631s
+user	0m0,008s
+sys	0m0,009s
+ 
